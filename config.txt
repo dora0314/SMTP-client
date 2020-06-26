@@ -11,7 +11,7 @@ Attachments = 1.jpg, 2.jpg
 Text = some text
 
 [Server]
-Host = smtp.mail.ru
+Host = smtp.yandex.ru
 Port = 465
 
 
